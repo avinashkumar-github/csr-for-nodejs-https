@@ -1,0 +1,20 @@
+{
+  "name": "csr-for-nodejs-https",
+  "version": "1.0.0",
+  "description": "Creating and implementing CSR keys for allowing NodeJS app to run on secure socket https in localhost",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avinashkumar-github/csr-for-nodejs-https.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avinashkumar-github/csr-for-nodejs-https/issues"
+  },
+  "homepage": "https://github.com/avinashkumar-github/csr-for-nodejs-https#readme"
+}
